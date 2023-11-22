@@ -20,3 +20,7 @@ func main() {
 	fmt.Println(s)
 }
 ```
+
+## Contribution
+If you use a helper function a lot and you're getting tired of copying and pasting the same code in different projects, you can add it here.
+Just create a PR and submit your changes. **Don't forget to write unit tests for your newly added function**
